@@ -3,3 +3,5 @@ game:GetService"RunService".RenderStepped:Connect(function()
     game:GetService("Workspace").ENTERUSERNAME.PlayerHitBox:Destroy()
     game:GetService("Workspace").ENTERUSERNAME.CanBeKnocked.Value = false 
 end)
+
+-- Made by Yordi10#2082
